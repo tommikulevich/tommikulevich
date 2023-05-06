@@ -15,9 +15,11 @@
   </a>
 </div>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tommikulevich&style=flat-square&color=blue" alt=""/>
 </p>
+-->
 
 ### 🦭 About
 
@@ -50,7 +52,7 @@ A third-year student of **Automatic Control, Cybernetics and Robotics** at Gdans
 </div>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
@@ -66,13 +68,14 @@ A third-year student of **Automatic Control, Cybernetics and Robotics** at Gdans
 
 <!--
 ### 🎯 Some Projects 
-
 -->
 
 ### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommikulevich&show_icons=true&theme=transparent)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tommikulevich&theme=dark&background=001000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommikulevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tommikulevich&theme=dark&background=001000)](https://git.io/streak-stats)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommikulevich&show_icons=true&theme=transparent)
+-->
