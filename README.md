@@ -23,7 +23,7 @@
 
 ### 🦭 About
 
-A third-year student of **Automatic Control, Cybernetics and Robotics** at Gdansk University of Technology. Attracted to scientific research, algorithms, quantum programming, ML and AI. Always eager to learn innovative skills and contribute to meaningful projects that drive human progress.
+An MSc student of Computer Science at Gdansk University of Technology. Attracted to scientific research, algorithms, quantum programming, ML and AI. Always eager to learn innovative skills and contribute to meaningful projects that drive human progress.
 
 ---
 
