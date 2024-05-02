@@ -23,10 +23,11 @@
 
 ### 🦭 About
 
-An MSc student of Computer Science at Gdansk University of Technology. Attracted to scientific research, algorithms, quantum programming, ML and AI. Always eager to learn innovative skills and contribute to meaningful projects that drive human progress.
+An MSc student of Computer Science at Gdansk University of Technology. Attracted to scientific research, algorithms, embedded, quantum programming, ML and AI. Always eager to learn innovative skills and contribute to meaningful projects that drive human progress.
 
 ---
 
+<!--
 ### 🧭 Languages
 
 - 🇵🇱 **Polish** [Fluent] 
@@ -34,8 +35,21 @@ An MSc student of Computer Science at Gdansk University of Technology. Attracted
 - 🇧🇾 **Belarusian** & **Russian** [Native]
 
 ---
+-->
 
 ### 💻 Skills | Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
+</div>
+
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
@@ -63,6 +77,7 @@ An MSc student of Computer Science at Gdansk University of Technology. Attracted
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 ---
 
