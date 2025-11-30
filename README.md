@@ -10,13 +10,13 @@
   <a href="https://www.linkedin.com/in/tommikulevich/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/funtomqq/">
+  <!-- <a href="https://www.facebook.com/funtomqq/">
     <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
-MSc student of Computer Science at Gdansk University of Technology. Attracted to space tech, quantum computing, embedded computer systems and deep learning. Always eager to learn innovative skills and contribute to meaningful projects that drive human progress.
+Motivated embedded enthusiast contributing practical skills to research and development projects. Attracted to IoT, space tech, deep learning and quantum computing. Always eager to learn innovative skills and contribute to meaningful projects that drive human progress.
 </div>
 
 ---
@@ -27,9 +27,9 @@ MSc student of Computer Science at Gdansk University of Technology. Attracted to
   </a>
 </p>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" />
+<!-- <div align="center" dir="auto" <img style="max-width: 100%;" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=tommikulevich&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&show_icons=true" />
-</div>
+</div> -->
 
 <!--
 ### 🎯 Some Projects 
